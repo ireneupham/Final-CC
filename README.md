@@ -16,3 +16,6 @@ Since the data provided was in a CSV form, S3 buckets have the capability of loa
 ## Demo
 A demo of this application is available at https://dwnfnrr39gbkn.cloudfront.net/index.html
 ![Demo](/images/demo.png)
+
+## Demo Video 
+A demo video of this application is availible via recording here ()
